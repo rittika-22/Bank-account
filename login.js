@@ -11,7 +11,7 @@ document.getElementById('submit-btn').addEventListener('click', function (){
   // console.log(userPass);
   
   // set email password and check
-  if ( (userEmail == 'hasina@gmail.com') && (userPass == 'hasina') ){
+  if ( (userEmail == 'Rittika@gmail.com') && (userPass == 'Rittika') ){
   
     window.location.href = 'bank.html';
   
